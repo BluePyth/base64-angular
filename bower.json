@@ -1,6 +1,6 @@
 {
   "name": "base64-angular",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "1.0.1-SNAPSHOT",
   "main": "dist/base64-angular.min.js",
   "ignore": [
     "**/.*",
