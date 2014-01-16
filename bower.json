@@ -1,0 +1,10 @@
+{
+  'name': 'base64-angular',
+  'version': '1.0.0',
+  'main': 'dist/base64-angular.min.js',
+  'ignore': [
+    '**/.*',
+    'node_modules',
+    'components'
+  ]
+}
